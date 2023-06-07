@@ -1,4 +1,4 @@
-Import streamlit as st
+Import streamlit
 streamlit.title('My Parents New Healthy Diner')
 
 Streamlit.header('Breakfast Menu')
