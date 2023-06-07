@@ -1,3 +1,1 @@
-Import Streamlit
-
-streamlit.title('My Parents New Healthy Diner') 
+'/home/appuser/venv/bin/python -m pip install --upgrade pip'
